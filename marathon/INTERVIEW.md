@@ -65,3 +65,6 @@ Date started: 2026-10-06. Race: Sunday 2027-04-25, London Marathon. Goal: 2:45:0
 - Sleep: bad now, working toward 7–8h. Dashboard shows sleep next to load; coach backs off when both bad.
 - Plan vs body: dashboard coach decides each day from plan + Whoop. Athlete follows it.
 - Plan B: none wanted. Build for 2:45. Checkpoints show truth; athlete decides at gates.
+
+## Files in this folder
+- `INTERVIEW.md` this file. `PLAN.md` the 29-week plan. `plan.json` same plan for the dashboard. `DASHBOARD.md` dashboard design and build steps.
